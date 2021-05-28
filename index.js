@@ -56,6 +56,7 @@ module.exports = {
     '@typescript-eslint/explicit-function-return-type': WARN,
     '@typescript-eslint/no-explicit-any': WARN,
     '@typescript-eslint/no-non-null-assertion': WARN,
-    '@typescript-eslint/no-unused-vars': WARN
+    '@typescript-eslint/no-unused-vars': WARN,
+    '@typescript-eslint/no-extra-semi': OFF
   }
 }

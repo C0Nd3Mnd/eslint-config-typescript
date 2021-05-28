@@ -1,0 +1,28 @@
+{
+  "name": "@c0nd3mnd/eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "My personally preferred ESLint rules, extended for TypeScript support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C0Nd3Mnd/eslint-config-typescript.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "C0Nd3Mnd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C0Nd3Mnd/eslint-config-typescript/issues"
+  },
+  "homepage": "https://github.com/C0Nd3Mnd/eslint-config-typescript#readme",
+  "dependencies": {
+    "@c0nd3mnd/eslint-config": "^2.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.25.0",
+    "@typescript-eslint/parser": "^4.25.0"
+  }
+}

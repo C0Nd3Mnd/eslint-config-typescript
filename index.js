@@ -30,8 +30,8 @@ module.exports = {
         ]
       }
     ],
-    'jsdoc/require-param-type': WARN,
-    'jsdoc/require-returns-type': WARN,
+    'jsdoc/require-param-type': OFF,
+    'jsdoc/require-returns-type': OFF,
     // TypeScript
     '@typescript-eslint/indent': OFF,
     '@typescript-eslint/member-delimiter-style': [

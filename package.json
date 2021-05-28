@@ -1,6 +1,6 @@
 {
   "name": "@c0nd3mnd/eslint-config-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personally preferred ESLint rules, extended for TypeScript support.",
   "main": "index.js",
   "scripts": {
